@@ -2,4 +2,4 @@
 A basic web scrapper to get reviews for a particular product from Flipkart
 
 # App deployed on Heroku platform
-**Link : ** https://text-review-scrapper.herokuapp.com/
+**Link :** https://text-review-scrapper.herokuapp.com/
